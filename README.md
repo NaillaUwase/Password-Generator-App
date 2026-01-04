@@ -58,5 +58,5 @@ A professional, feature-rich password generator application built with Python an
 
 ### Step 1: Clone or Download
 ```bash
-git clone https://github.com/yourusername/password-generator-pro.git
+git clone https://github.com/CyizaLandry5.git
 cd password-generator-pro
