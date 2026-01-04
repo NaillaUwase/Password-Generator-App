@@ -1,9 +1,13 @@
-# Unit-Currency-Converter-App
-A Python-based app that converts units and currencies, fetching real-time exchange rates via an API for accurate and up-to-date conversions.
+# Password Generator Pro
 
+A professional, feature-rich password generator application built with Python and Tkinter. This tool helps you create strong, secure passwords with customizable options and a user-friendly interface.
 
-# 💱 Programmer
+![Password Generator Pro](https://img.shields.io/badge/Password-Generator%20Pro-blue)
+![Python](https://img.shields.io/badge/Python-3.6%2B-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
+---
+# Developer
 <p align="center">
   <!-- 👤 PROFILE PICTURE PLACEHOLDER -->
   <img src="cyiza.png" width="120" style="border-radius:50%" />
@@ -15,14 +19,6 @@ A Python-based app that converts units and currencies, fetching real-time exchan
 </p>
 
 ---
-
-# Password Generator Pro
-
-A professional, feature-rich password generator application built with Python and Tkinter. This tool helps you create strong, secure passwords with customizable options and a user-friendly interface.
-
-![Password Generator Pro](https://img.shields.io/badge/Password-Generator%20Pro-blue)
-![Python](https://img.shields.io/badge/Python-3.6%2B-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Features
 
